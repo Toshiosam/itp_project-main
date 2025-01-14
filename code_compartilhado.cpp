@@ -4,7 +4,7 @@
 #include <vector>
 #include <sstream>
 #include <cmath>
-
+//teste
 using namespace std;
 
 // Valida o identificador EAN-8
